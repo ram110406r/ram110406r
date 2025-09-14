@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋, I’m RP
 
-<!--
-**ram110406r/ram110406r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Engineering student | AI & Full-Stack Developer | Photographer 📸  
+I build smart systems, web apps, and love exploring creative tech projects.
 
-Here are some ideas to get you started:
+## Skills
+- **Languages:** Python, JavaScript, C++
+- **Web:** HTML, CSS, React
+- **AI/ML:** TensorFlow, PyTorch
+- **Other:** Git, SQL, 8086 Assembly
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [AI Crop Yield Prediction](https://github.com/ram110406r/Ai-based-platform-for-crop-yield-optimization) - Predict crop yield using AI models.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
