@@ -36,21 +36,6 @@
 - ☀️ **[Solar Shine Dynamic](https://github.com/ram110406r/solar-shine-dynamic)**  
   Dynamic solar e-commerce showcase with ROI estimator and elegant product visualization.  
 
-- 📚 **[Learn Glance](https://github.com/ram110406r/learn-glance)**  
-  Minimal, intelligent study companion combining notes, assessments, and progress tracking.  
-
-- 💻 **[Meet Echo-Five](https://github.com/tharunkamalesh/meet-echo-five)**  
-  Collaborative communication app with intelligent meeting summaries and real-time insights.  
-
-- 📊 **[Excel Spotlight AI](https://github.com/SRIDHAR846/excel-spotlight-ai)**  
-  AI-powered Excel plugin that provides natural language insights and smart data visualization.  
-
-- 🛍️ **[Local Artisan Ally](https://github.com/dwva/local-artisan-ally)**  
-  Platform empowering local artisans to showcase and sell handcrafted goods online.  
-
-- 🎨 **[Artisan](https://github.com/Vishal2321-VB/artisan)**  
-  Community-driven marketplace for handcrafted products and creative solutions.  
-
 ---
 
 ### 📊 GitHub Stats & Insights
