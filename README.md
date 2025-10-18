@@ -9,7 +9,8 @@
 ⚙️ Tech Toolbox
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,react,nodejs,tensorflow,arduino,firebase,git,vscode,html,css,js" /> </p>
 🌟 Featured Projects
-🚀 Project	💡 Description
+🚀 Project Description
+
 🌾 AI-based Platform for Crop Yield Optimization
 	Predicts and optimizes crop yield using AI models trained on environmental and soil data.
 🤖 Autonomous Research Assistant
@@ -20,10 +21,12 @@
 	Feedback and analytics prototype that transforms raw student insights into actionable data.
 📚 Learn Glance
 	Minimal, intelligent study companion combining notes, assessments, and progress tracking.
+	
 📊 GitHub Stats & Insights
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ram110406r&show_icons=true&theme=tokyonight&hide_border=true" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ram110406r&theme=tokyonight&hide_border=true" height="165"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ram110406r&layout=compact&theme=tokyonight&hide_border=true" height="140"/> </p>
+
 🌐 Connect with Me
-<p align="center"> <a href="https://www.instagram.com/rphotog._/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="https://linkedin.com" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:ramprasanna110406@gmail.com"> <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
+<p align="center"> <a href="https://www.instagram.com/ram.prasanna.r?igsh=NWw4a3FnOXVnb3hl" target="_blank"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="https://linkedin.com" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:ramprasanna110406@gmail.com"> <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
 ✨ Quote I Live By
 
 “The best way to predict the future is to build it.” — Alan Kay
