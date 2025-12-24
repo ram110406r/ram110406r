@@ -1,9 +1,6 @@
 <!-- Animated Header -->
 <h1 align="center">👋 Hey, I'm <span style="color:#00c3ff;">Ram Prasanna (RP)</span>!</h1>
-<h3 align="center">🚀 AI Explorer | Engineering Student | Creative Technologist</h3>
-<p align="center">
-  Engineering Student • AI & EdTech Builder • Full-Stack Developer • Photographer
-</p>
+<h3 align="center">🚀 AI & EdTech Builder | Engineering Student | Creative Technologist | Photographer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ram-prasanna-r-2a7386326">
