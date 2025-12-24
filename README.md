@@ -1,64 +1,137 @@
-<!-- Animated Header -->
-<h1 align="center">👋 Hey, I'm <span style="color:#00c3ff;">Ram Prasanna (RP)</span>!</h1>
-<h3 align="center">🚀 AI Explorer | Engineering Student | Creative Technologist</h3>
+<h1 align="center">Ram Prasanna</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=00C3FF&center=true&vCenter=true&width=600&lines=Building+AI-powered+solutions;Blending+Tech+and+Creativity;Exploring+Autonomous+Systems;Passionate+about+Sustainability+%26+Design" alt="Typing SVG" />
+  Engineering Student • AI & EdTech Builder • Full-Stack Developer • Photographer
 </p>
 
----
-
-### 🧩 About Me
-- 💡 Engineering student passionate about merging **AI, design, and sustainability**  
-- 🤖 Exploring **autonomous agents, AI education systems, and renewable tech**  
-- 🎯 Mission: Build tech that *learns, adapts, and creates impact*  
-- 📸 Freelance photographer — storytelling through light and lens  
-
----
-
-### ⚙️ Tech Toolbox
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,react,nodejs,tensorflow,arduino,firebase,git,vscode,html,css,js" />
-</p>
-
----
-
-### 🌟 Featured Projects
-- 🌾 **[AI-based Platform for Crop Yield Optimization](https://github.com/ram110406r/Ai-based-platform-for-crop-yield-optimization)**  
-  Predicts and optimizes crop yield using AI models trained on environmental and soil data.  
-
-- 🤖 **[Autonomous Research Assistant](https://github.com/ram110406r/Autonomous-Research-Assistant)**  
-  AI assistant that autonomously collects, summarizes, and structures academic research data.  
-
-- 🎓 **[Edutou Feedback Prototype](https://github.com/ram110406r/edutou-feedback-prototype)**  
-  Feedback and analytics prototype transforming raw student insights into actionable data.  
-
-- ☀️ **[Solar Shine Dynamic](https://github.com/ram110406r/solar-shine-dynamic)**  
-  Dynamic solar e-commerce showcase with ROI estimator and elegant product visualization.  
-
----
-
-
-
-### 🌐 Connect with Me
-<p align="center">
-  <a href="https://www.instagram.com/ram.prasanna.r?igsh=NWw4a3FnOXVnb3hl" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.linkedin.com/in/ram-prasanna-r-2a7386326">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="mailto:rrpijju11@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="mailto:ramprasanna110406@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://www.instagram.com/ram.prasanna.r">
+    <img src="https://img.shields.io/badge/Instagram-Personal-black?style=flat&logo=instagram" />
   </a>
+  <a href="https://www.instagram.com/rphotog._">
+    <img src="https://img.shields.io/badge/Photography-RPHOTOG-darkgreen?style=flat&logo=instagram" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=ram110406r&label=Profile%20Views&color=grey" />
 </p>
 
 ---
 
-### ✨ Quote I Live By
-> “The best way to predict the future is to build it.” — Alan Kay
+## 👋 About Me
+
+I am a **second-year engineering student** focused on building **AI-driven systems with real academic and societal impact**.  
+My interests lie in **education technology, backend engineering, and applied AI systems**.
+
+- 🧠 Building an **EdTech startup (EDDGE)** — *currently in active development*  
+- 🎯 Focused on **CBSE Class 9 & 11 exam-oriented learning systems**  
+- ⚙️ Strong interest in **backend architecture, AI agents, and system design**  
+- 📸 Freelance Photographer — *RPHOTOG*
+
+I value **clarity, depth, and systems that scale**.
+
+---
+
+## 🚧 Building Now
+
+### 🎓 **EDDGE — AI-Powered Learning Platform (Coming Soon)**
+> An EdTech startup focused on **personalized learning for board exam success**
+
+**Vision**
+- AI-personalized learning paths  
+- Syllabus-restricted AI doubt solving  
+- Step-by-step numerical reasoning  
+- Performance analytics for students  
+- Student, Teacher & Admin dashboards  
+- CBSE Class 9 & 11 syllabus engine  
+
+🚀 *Currently under active development*
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+</p>
+
+### 🌐 Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css"/>
+</p>
+
+### 🔧 Backend
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/>
+</p>
+
+### 🤖 AI & Systems
+- Prompt Engineering  
+- AI Doubt Solvers (step-by-step reasoning)  
+- Syllabus-validated AI systems  
+- Agent-based architectures  
+
+### 🧰 Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+</p>
+
+---
+
+## ⚡ Hardware & Embedded Projects
+- Laser–LDR Intrusion Detection System  
+- GSM-based Device Control System  
+- Cache Memory Simulator with performance analytics  
+- Arduino-based automation systems  
+
+---
+
+## 📸 Photography
+
+**RPHOTOG** — Minimalist, real-world photography  
+Focused on light, composition, and storytelling.
+
+📷 Instagram: https://www.instagram.com/rphotog._
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="600" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ram110406r&show_icons=true&hide_title=true&theme=tokyonight" />
 </p>
-<p align="center">⚡ Always learning. Always building. Always creating impact. ⚡</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ram110406r&theme=tokyonight" />
+</p>
+
+---
+
+## 🤝 Connect
+
+- 📧 Email: **rrpijju11@gmail.com**  
+- 💼 LinkedIn: https://www.linkedin.com/in/ram-prasanna-r-2a7386326  
+- 📸 Personal Instagram: https://www.instagram.com/ram.prasanna.r  
+- 📷 Photography: https://www.instagram.com/rphotog._
+
+---
+
+<p align="center">
+  <em>“Build systems that genuinely help people learn better.”</em>
+</p>
