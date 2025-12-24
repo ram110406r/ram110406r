@@ -22,32 +22,14 @@
 
 ## 👋 About Me
 
-I am a **second-year engineering student** focused on building **AI-driven systems with real academic and societal impact**.  
-My interests lie in **education technology, backend engineering, and applied AI systems**.
+I am a **second-year engineering student** with a strong interest in **backend systems, applied AI, and problem-driven software development**. I focus on building solutions that are technically sound, scalable, and useful in real-world contexts.
 
-- 🧠 Building an **EdTech startup (EDDGE)** — *currently in active development*  
-- 🎯 Focused on **CBSE Class 9 & 11 exam-oriented learning systems**  
-- ⚙️ Strong interest in **backend architecture, AI agents, and system design**  
+- 🧠 Exploring applications of **AI in education and learning systems**  
+- 🎯 Interested in **exam-oriented and structured learning workflows**  
+- ⚙️ Actively learning **backend architecture, APIs, and system design**  
 - 📸 Freelance Photographer — *RPHOTOG*
 
 I value **clarity, depth, and systems that scale**.
-
----
-
-## 🚧 Building Now
-
-### 🎓 **EDDGE — AI-Powered Learning Platform (Coming Soon)**
-> An EdTech startup focused on **personalized learning for board exam success**
-
-**Vision**
-- AI-personalized learning paths  
-- Syllabus-restricted AI doubt solving  
-- Step-by-step numerical reasoning  
-- Performance analytics for students  
-- Student, Teacher & Admin dashboards  
-- CBSE Class 9 & 11 syllabus engine  
-
-🚀 *Currently under active development*
 
 ---
 
