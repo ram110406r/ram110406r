@@ -2,22 +2,6 @@
 <h1 align="center">👋 Hey, I'm <span style="color:#00c3ff;">Ram Prasanna (RP)</span>!</h1>
 <h3 align="center">🚀 AI & EdTech Builder | Engineering Student | Creative Technologist | Photographer</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ram-prasanna-r-2a7386326">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:rrpijju11@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/ram.prasanna.r">
-    <img src="https://img.shields.io/badge/Instagram-Personal-black?style=flat&logo=instagram" />
-  </a>
-  <a href="https://www.instagram.com/rphotog._">
-    <img src="https://img.shields.io/badge/Photography-RPHOTOG-darkgreen?style=flat&logo=instagram" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=ram110406r&label=Profile%20Views&color=grey" />
-</p>
-
 ---
 
 ## 👋 About Me
@@ -105,10 +89,21 @@ Focused on light, composition, and storytelling.
 
 ## 🤝 Connect
 
-- 📧 Email: **rrpijju11@gmail.com**  
-- 💼 LinkedIn: https://www.linkedin.com/in/ram-prasanna-r-2a7386326  
-- 📸 Personal Instagram: https://www.instagram.com/ram.prasanna.r  
-- 📷 Photography: https://www.instagram.com/rphotog._
+<p align="center">
+  <a href="https://www.linkedin.com/in/ram-prasanna-r-2a7386326">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rrpijju11@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/ram.prasanna.r">
+    <img src="https://img.shields.io/badge/Instagram-Personal-black?style=flat&logo=instagram" />
+  </a>
+  <a href="https://www.instagram.com/rphotog._">
+    <img src="https://img.shields.io/badge/Photography-RPHOTOG-darkgreen?style=flat&logo=instagram" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=ram110406r&label=Profile%20Views&color=grey" />
+</p>
 
 ---
 
