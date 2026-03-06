@@ -129,46 +129,40 @@ Topics explored:
 
 ### Languages
 
-Python  
-JavaScript  
-TypeScript  
-C  
-SQL  
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,c,postgres" />
+</p>
 
 ---
 
 ### Frontend
-
-React  
-Next.js  
-TailwindCSS  
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
 
 ---
 
 ### Backend
 
-Node.js  
-FastAPI  
-PostgreSQL  
-Supabase  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,postgres,supabase" />
+</p>
 
 ---
 
 ### AI & Systems
 
-Prompt Engineering  
-AI Doubt Solvers  
-Agent-based architectures  
-LLM integrations  
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</p>
 
 ---
 
 ### Tools
 
-Git  
-GitHub  
-Docker  
-Linux  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+</p>
 
 ---
 
