@@ -1,64 +1,203 @@
-<!-- Animated Header -->
-<h1 align="center">👋 Hey, I'm <span style="color:#00c3ff;">Ram Prasanna (RP)</span>!</h1>
-<h3 align="center">🚀 AI & EdTech Builder | Engineering Student | Creative Technologist | Photographer</h3>
+<h1 align="center">👋 Hi, I'm Ram Prasanna (RP)</h1>
+<h3 align="center">AI Systems Builder • EdTech Developer • Engineering Student • Photographer</h3>
 
----
-
-## 👋 About Me
-
-I am a **second-year engineering student** with a strong interest in **backend systems, applied AI, and problem-driven software development**. I focus on building solutions that are technically sound, scalable, and useful in real-world contexts.
-
-- 🧠 Exploring applications of **AI in education and learning systems**  
-- 🎯 Interested in **exam-oriented and structured learning workflows**  
-- ⚙️ Actively learning **backend architecture, APIs, and system design**  
-- 📸 Freelance Photographer — *RPHOTOG*
-
-I value **clarity, depth, and systems that scale**.
-
----
-
-## 🛠️ Technical Skills
-
-### 💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+<p align="center">
+Building AI-powered learning systems and scalable backend architectures.
 </p>
 
-### 🌐 Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css"/>
-</p>
-
-### 🔧 Backend
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/>
-</p>
-
-### 🤖 AI & Systems
-- Prompt Engineering  
-- AI Doubt Solvers (step-by-step reasoning)  
-- Syllabus-validated AI systems  
-- Agent-based architectures  
-
-### 🧰 Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ram110406r&label=Profile%20views&color=blue&style=flat" />
 </p>
 
 ---
 
-## ⚡ Hardware & Embedded Projects
+# 🧠 About Me
+
+I am a **second-year engineering student** passionate about building **real-world software systems**.
+
+My interests include:
+
+- 🤖 Applied AI systems  
+- 🧠 Education technology  
+- ⚙️ Backend architecture  
+- 📊 Intelligent learning platforms  
+
+I enjoy designing **systems that are practical, scalable, and useful**.
+
+---
+
+# 🚀 What I'm Building
+
+### EDDGE — AI Learning Platform
+
+An AI-powered platform designed to improve **exam preparation and structured learning**.
+
+Key features:
+
+- AI doubt solving with step-by-step reasoning  
+- syllabus-aware answers  
+- teacher monitoring tools  
+- AI-assisted learning workflows  
+
+**Tech Stack**
+
+Next.js • Node.js • PostgreSQL • Prisma • Claude API • Docker
+
+---
+
+# ⭐ Featured Projects
+
+## EDDGE — AI Learning Platform
+AI-powered system designed for structured exam preparation and AI doubt solving.
+
+---
+
+## AI Doubt Solver
+AI system that generates step-by-step explanations for academic questions.
+
+---
+
+## Cache Memory Simulator
+A simulator that analyzes cache performance and memory efficiency.
+
+---
+
+## GSM-Based Device Control System
+Embedded system project for remote device control using GSM communication.
+
+---
+
+# 🧪 AI Research & Experiments
+
+I actively experiment with building **AI systems for structured learning and problem solving**.
+
+---
+
+## 📚 Syllabus-Aware AI Systems
+
+Designing AI systems that generate answers aligned with **academic syllabus structures**.
+
+Focus areas:
+
+- syllabus validation  
+- structured explanations  
+- exam-oriented answer formatting  
+- topic-aware AI responses  
+
+---
+
+## 🧠 AI Doubt Solver Architectures
+
+Exploring how AI can provide **step-by-step solutions for academic questions**.
+
+Research directions:
+
+- reasoning prompts  
+- structured outputs  
+- explanation clarity  
+- prompt engineering strategies  
+
+---
+
+## 🔎 Retrieval-Augmented Learning Systems
+
+Experimenting with **retrieval-based AI systems** to improve answer accuracy.
+
+Concepts explored:
+
+- Retrieval-Augmented Generation (RAG)  
+- syllabus-based document retrieval  
+- contextual AI responses  
+- knowledge-grounded answers  
+
+---
+
+## ⚙️ AI + Backend System Design
+
+Studying how AI integrates with real-world software systems.
+
+Topics explored:
+
+- LLM API integration  
+- scalable AI backend architectures  
+- cost optimization for AI systems  
+- real-time AI services  
+
+---
+
+# 🛠️ Tech Stack
+
+### Languages
+
+Python  
+JavaScript  
+TypeScript  
+C  
+SQL  
+
+---
+
+### Frontend
+
+React  
+Next.js  
+TailwindCSS  
+
+---
+
+### Backend
+
+Node.js  
+FastAPI  
+PostgreSQL  
+Supabase  
+
+---
+
+### AI & Systems
+
+Prompt Engineering  
+AI Doubt Solvers  
+Agent-based architectures  
+LLM integrations  
+
+---
+
+### Tools
+
+Git  
+GitHub  
+Docker  
+Linux  
+
+---
+
+# 📚 Currently Learning
+
+### AI Systems
+
+- Retrieval-Augmented Generation (RAG)  
+- AI agents with tool usage  
+- LLM optimization  
+
+### Backend & Architecture
+
+- distributed systems  
+- scalable SaaS infrastructure  
+- event-driven architectures  
+
+### DevOps
+
+- Docker deployments  
+- VPS hosting  
+- CI/CD pipelines  
+
+---
+
+# ⚡ Hardware & Embedded Projects
+
+Projects combining **electronics and programming**.
+
 - Laser–LDR Intrusion Detection System  
 - GSM-based Device Control System  
 - Cache Memory Simulator with performance analytics  
@@ -66,47 +205,52 @@ I value **clarity, depth, and systems that scale**.
 
 ---
 
-## 📸 Photography
-
-**RPHOTOG** — Minimalist, real-world photography  
-Focused on light, composition, and storytelling.
-
-📷 Instagram: https://www.instagram.com/rphotog._
-
----
-
-## 📊 GitHub Activity
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ram110406r&show_icons=true&hide_title=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ram110406r&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ram110406r&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ram110406r&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🤝 Connect
+# 🐍 Contribution Snake
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ram-prasanna-r-2a7386326">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:rrpijju11@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/ram.prasanna.r">
-    <img src="https://img.shields.io/badge/Instagram-Personal-black?style=flat&logo=instagram" />
-  </a>
-  <a href="https://www.instagram.com/rphotog._">
-    <img src="https://img.shields.io/badge/Photography-RPHOTOG-darkgreen?style=flat&logo=instagram" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=ram110406r&label=Profile%20Views&color=grey" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
 
-<p align="center">
-  <em>“Build systems that genuinely help people learn better.”</em>
-</p>
+# 📸 Photography
+
+I also work as a **freelance photographer**.
+
+Brand: **RPHOTOG**
+
+Focus on **minimalist photography and storytelling through light**.
+
+Instagram  
+https://www.instagram.com/rphotog._
+
+---
+
+# 🤝 Connect
+
+LinkedIn  
+https://www.linkedin.com/in/ram-prasanna-r-2a7386326
+
+Email  
+rrpijju11@gmail.com
+
+Instagram  
+https://www.instagram.com/ram.prasanna.r
+
+---
+
+# 🧭 Philosophy
+
+> Build systems that genuinely help people learn better.
