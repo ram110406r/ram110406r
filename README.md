@@ -196,6 +196,4 @@ https://www.instagram.com/ram.prasanna.r
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3500&color=00C3FF&center=true&vCenter=true&width=800&lines=Build+systems+that+genuinely+help+people+learn+better."/>
-</p># 🧭 Philosophy
 
-> Build systems that genuinely help people learn better.
