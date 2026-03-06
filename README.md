@@ -44,84 +44,31 @@ Key features:
 Next.js • Node.js • PostgreSQL • Prisma • Claude API • Docker
 
 ---
+## ⭐ Featured Projects
 
-# ⭐ Featured Projects
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=00C3FF&center=true&vCenter=true&width=600&lines=Projects+I+Built;AI+Systems+and+Engineering+Experiments"/>
+</p>
 
-## EDDGE — AI Learning Platform
-AI-powered system designed for structured exam preparation and AI doubt solving.
-
----
-
-## AI Doubt Solver
-AI system that generates step-by-step explanations for academic questions.
-
----
-
-## Cache Memory Simulator
-A simulator that analyzes cache performance and memory efficiency.
+| Project                       | Description                                          |
+| ----------------------------- | ---------------------------------------------------- |
+| 🧠 **EDDGE**                  | AI learning platform for structured exam preparation |
+| 🤖 **AI Doubt Solver**        | Step-by-step AI explanations for academic problems   |
+| ⚙️ **Cache Memory Simulator** | Tool to analyze cache performance                    |
+| 📡 **GSM Device Control**     | Arduino system for GSM-based remote control          |
 
 ---
 
-## GSM-Based Device Control System
-Embedded system project for remote device control using GSM communication.
+## 🧪 AI Experiments
 
----
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=00C3FF&center=true&vCenter=true&width=600&lines=AI+Experiments;Learning+System+Architecture;LLM+Engineering"/>
+</p>
 
-# 🧪 AI Research & Experiments
-
-I actively experiment with building **AI systems for structured learning and problem solving**.
-
----
-
-## 📚 Syllabus-Aware AI Systems
-
-Designing AI systems that generate answers aligned with **academic syllabus structures**.
-
-Focus areas:
-
-- syllabus validation  
-- structured explanations  
-- exam-oriented answer formatting  
-- topic-aware AI responses  
-
----
-
-## 🧠 AI Doubt Solver Architectures
-
-Exploring how AI can provide **step-by-step solutions for academic questions**.
-
-Research directions:
-
-- reasoning prompts  
-- structured outputs  
-- explanation clarity  
-- prompt engineering strategies  
-
----
-
-## 🔎 Retrieval-Augmented Learning Systems
-
-Experimenting with **retrieval-based AI systems** to improve answer accuracy.
-
-Concepts explored:
-
-- Retrieval-Augmented Generation (RAG)  
-- syllabus-based document retrieval  
-- contextual AI responses  
-- knowledge-grounded answers  
-
----
-
-## ⚙️ AI + Backend System Design
-
-Studying how AI integrates with real-world software systems.
-
-Topics explored:
-
-- LLM API integration  
-- scalable AI backend architectures  
-- cost optimization for AI systems  
-- real-time AI services  
+* 📚 **Syllabus-Aware AI** — curriculum-aligned answers
+* 🧠 **AI Doubt Solvers** — step-by-step reasoning
+* 🔎 **RAG Systems** — knowledge-grounded AI responses
+* ⚙️ **LLM Backend Systems** — scalable AI integrations
 
 ---
 
