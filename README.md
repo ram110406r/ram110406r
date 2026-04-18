@@ -26,19 +26,6 @@ I enjoy designing **systems that are practical, scalable, and useful**.
 
 ---
 
-# 🚀 What I'm Building
-
-### EDDGE — AI Learning Platform
-
-An AI-powered platform designed to improve **exam preparation and structured learning**.
-
-Key features:
-
-- AI doubt solving with step-by-step reasoning  
-- syllabus-aware answers  
-- teacher monitoring tools  
-- AI-assisted learning workflows  
-
 **Tech Stack**
 
 Next.js • Node.js • PostgreSQL • Prisma • Claude API • Docker
@@ -59,18 +46,7 @@ Next.js • Node.js • PostgreSQL • Prisma • Claude API • Docker
 
 ---
 
-## 🧪 AI Experiments
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=00C3FF&center=true&vCenter=true&width=600&lines=AI+Experiments;Learning+System+Architecture;LLM+Engineering"/>
-</p>
-
-* 📚 **Syllabus-Aware AI** — curriculum-aligned answers
-* 🧠 **AI Doubt Solvers** — step-by-step reasoning
-* 🔎 **RAG Systems** — knowledge-grounded AI responses
-* ⚙️ **LLM Backend Systems** — scalable AI integrations
-
----
 
 # 🛠️ Tech Stack
 
@@ -111,38 +87,6 @@ Next.js • Node.js • PostgreSQL • Prisma • Claude API • Docker
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
 </p>
 
----
-
-# 📚 Currently Learning
-
-### AI Systems
-
-- Retrieval-Augmented Generation (RAG)  
-- AI agents with tool usage  
-- LLM optimization  
-
-### Backend & Architecture
-
-- distributed systems  
-- scalable SaaS infrastructure  
-- event-driven architectures  
-
-### DevOps
-
-- Docker deployments  
-- VPS hosting  
-- CI/CD pipelines  
-
----
-
-# ⚡ Hardware & Embedded Projects
-
-Projects combining **electronics and programming**.
-
-- Laser–LDR Intrusion Detection System  
-- GSM-based Device Control System  
-- Cache Memory Simulator with performance analytics  
-- Arduino-based automation systems  
 
 ---
 
