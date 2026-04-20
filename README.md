@@ -100,26 +100,6 @@ Next.js • Node.js • PostgreSQL • Prisma • Claude API • Docker
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ram110406r&theme=tokyonight"/>
 </p>
 
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-# 📸 Photography
-
-I also work as a **freelance photographer**.
-
-Brand: **RPHOTOG**
-
-Focus on **minimalist photography and storytelling through light**.
-
-Instagram  
-https://www.instagram.com/rphotog._
 
 ---
 
