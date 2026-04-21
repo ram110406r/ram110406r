@@ -40,7 +40,6 @@ Next.js • Node.js • PostgreSQL • Prisma • Claude API • Docker
 | Project                       | Description                                          |
 | ----------------------------- | ---------------------------------------------------- |
 | 🧠 **EDDGE**                  | AI learning platform for structured exam preparation |
-| 🤖 **AI Doubt Solver**        | Step-by-step AI explanations for academic problems   |
 | ⚙️ **Cache Memory Simulator** | Tool to analyze cache performance                    |
 | 📡 **GSM Device Control**     | Arduino system for GSM-based remote control          |
 
