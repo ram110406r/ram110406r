@@ -1,66 +1,75 @@
-<h1 align="center">Ram Prasanna (RP)</h1>
+<h1 align="center">Ram Prasanna R</h1>
 
 <p align="center">
-  AI Systems Builder • Backend Engineer • EdTech Developer
+  <b>AI Systems Builder • Backend Engineer • EdTech Developer</b>
 </p>
 
 <p align="center">
-  Designing scalable systems and AI-driven learning platforms.
+  Building scalable systems and AI-driven learning platforms.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Building+AI-powered+learning+systems;Designing+scalable+backend+architectures;Turning+ideas+into+real+products" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=18&duration=2800&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=AI-powered+learning+systems;Scalable+backend+architecture;Real-world+product+engineering" />
 </p>
 
 ---
 
-## 🧠 About
+## About
 
-I’m an engineering student focused on building **real-world software systems** at the intersection of:
+I focus on building **practical, scalable systems** at the intersection of:
 
 - Artificial Intelligence  
-- Backend Systems  
+- Backend Engineering  
 - Education Technology  
 
-I care about **clarity, scalability, and practical impact**.
+My goal is simple:  
+**build systems that make complex learning clear and structured.**
 
 ---
 
-## 🚀 Featured Work
+## Featured Work
 
-### 🧠 EDDGE — AI Learning Platform
-- Structured exam preparation using AI  
-- Converts syllabus into actionable learning paths  
-- Focused on consistency and clarity  
-
----
-
-### ⚙️ Cache Memory Simulator
-- Simulates cache performance  
-- Helps analyze low-level system behavior  
+### EDDGE — AI Learning Platform
+Structured exam preparation powered by AI  
+→ Converts syllabus into actionable learning paths  
+→ Designed for clarity, consistency, and focus  
 
 ---
 
-### 📡 GSM Device Control System
-- Remote device switching using GSM  
-- Built with Arduino and relay modules  
+### Cache Memory Simulator
+Systems-level tool for analyzing performance  
+→ Simulates cache behavior  
+→ Helps understand low-level tradeoffs  
 
 ---
 
-## 🛠 Tech Stack
-
-**Core**  
-Next.js • Node.js • PostgreSQL • Prisma  
-
-**AI / Systems**  
-Python • FastAPI • TensorFlow • PyTorch  
-
-**Tools & Infra**  
-Docker • Linux • Git • Supabase  
+### GSM Device Control System
+Embedded + communication system  
+→ Remote device control using GSM  
+→ Built with Arduino + relay modules  
 
 ---
 
-## 📊 GitHub Stats
+## Tech Stack
+
+### Core
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,postgres,prisma" />
+</p>
+
+### AI / Systems
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi" />
+</p>
+
+### Tools & Infrastructure
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,supabase,vscode" />
+</p>
+
+---
+
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ram110406r&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -72,16 +81,18 @@ Docker • Linux • Git • Supabase
 
 ---
 
-## 🤝 Connect
+## Connect
 
-- LinkedIn: https://www.linkedin.com/in/ram-prasanna-r-2a7386326  
-- Email: rrpijju11@gmail.com  
-- Instagram: https://www.instagram.com/ram.prasanna.r  
+<p align="center">
+  <a href="https://www.linkedin.com/in/ram-prasanna-r-2a7386326">LinkedIn</a> •
+  <a href="mailto:rrpijju11@gmail.com">Email</a> •
+  <a href="https://www.instagram.com/ram.prasanna.r">Instagram</a>
+</p>
 
 ---
 
-## 🧭 Philosophy
+## Philosophy
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=3500&pause=1200&color=4A90E2&center=true&vCenter=true&width=700&lines=Build+systems+that+make+learning+clearer;Reduce+confusion.+Increase+understanding;Technology+should+simplify%2C+not+complicate" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=17&duration=3200&pause=1200&color=2F80ED&center=true&vCenter=true&width=650&lines=Reduce+confusion.+Increase+clarity;Build+systems+that+people+actually+use;Simple+%3E+Complex" />
 </p>
