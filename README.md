@@ -1,73 +1,61 @@
-<!-- HERO -->
-<h1 align="center">Ram Prasanna</h1>
+<!-- 🔥 HERO -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=28&duration=2200&pause=700&color=00C3FF&center=true&vCenter=true&width=800&lines=AI+Systems+Builder;Designing+Intelligent+Learning+Systems;Backend+%2B+AI+%2B+Real+Products" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A84FF,100:00C3FF&height=220&section=header&text=Ram%20Prasanna&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
 </p>
 
 <p align="center">
-  <b>Building systems that turn complexity into clarity.</b>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=22&duration=2200&pause=800&color=00C3FF&center=true&vCenter=true&width=750&lines=AI+Systems+Builder;Backend+Engineer;EdTech+Product+Developer;Designing+Systems+That+Think" />
+</p>
+
+<p align="center">
+  <b>Turning complexity into structured, intelligent systems.</b>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Systems-Builder-00C3FF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Focus-EdTech-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Stage-Product%20Mode-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Stack-Full--Stack-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Mindset-System%20Thinking-111111?style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ram110406r&theme=algolia&no-frame=true&row=1&column=6"/>
+  <img src="https://komarev.com/ghpvc/?username=ram110406r&label=Profile%20Views&color=00C3FF&style=for-the-badge"/>
 </p>
 
 ---
 
-## 🧠 SYSTEM THINKING
+## 🧠 About Me
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=2600&pause=1000&color=00C3FF&center=true&vCenter=true&width=700&lines=I+don’t+build+features;I+build+systems;Clarity+is+a+feature;Structure+is+power" />
-</p>
+I build **real-world systems**, not just projects.
 
-I design **AI-driven systems** that:
+Focused on:
+- 🧠 AI-powered learning systems  
+- ⚙️ Scalable backend architecture  
+- 📊 Structured problem-solving platforms  
 
-- Convert chaos → structured workflows  
-- Reduce cognitive overload  
-- Scale with real-world usage  
-
----
-
-## 🚀 FLAGSHIP PRODUCT
-
-### 🧠 EDDGE — AI Learning Engine
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,postgres,python" />
-</p>
-
-> A system, not a tool.
-
-- 📊 Syllabus → structured learning graph  
-- 🧠 AI-driven topic breakdown  
-- ⚙️ Designed for consistency, not motivation  
-
-**Vision:**  
-A system where students don’t guess what to study —  
-the system *decides intelligently*.
+I care about **clarity, scalability, and practical impact**.
 
 ---
 
-## 🧩 ENGINEERING PROJECTS
+## 🚀 Featured Work
+
+### 🧠 EDDGE — AI Learning System
+- Converts syllabus → structured learning paths  
+- Decision-based learning approach  
+- Designed for clarity and consistency  
 
 ### ⚙️ Cache Memory Simulator
-- Simulates cache behavior  
-- Explains performance tradeoffs visually  
+- Simulates cache performance  
+- Helps understand low-level system behavior  
 
 ### 📡 GSM Device Control
-- Remote switching via GSM  
-- Embedded + communication integration  
+- Remote device control using GSM  
+- Arduino + relay-based switching  
 
 ---
 
-## 🛠️ TECH STACK
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,postgres,prisma,python,fastapi,tensorflow,pytorch,docker,linux,git,github,vscode" />
@@ -75,7 +63,7 @@ the system *decides intelligently*.
 
 ---
 
-## 📊 LIVE SIGNAL
+## 📊 GitHub Insights
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ram110406r&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -88,7 +76,7 @@ the system *decides intelligently*.
 
 ---
 
-## 🌐 NETWORK
+## 🌐 Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ram-prasanna-r-2a7386326">
@@ -104,17 +92,18 @@ the system *decides intelligently*.
 
 ---
 
-## 🧭 CORE PHILOSOPHY
+## 🧭 Philosophy
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=3000&pause=1200&color=00C3FF&center=true&vCenter=true&width=800&lines=Confusion+is+the+real+problem;Clarity+is+the+solution;Build+systems+that+think" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=3000&pause=1200&color=00C3FF&center=true&vCenter=true&width=800&lines=Confusion+is+the+problem;Clarity+is+the+solution;Build+systems+that+think" />
 </p>
 
 ---
 
-## ⚡ CURRENT MODE
+## ⚡ Current Focus
 
 ```diff
 + Building EDDGE into a real product
 + Exploring AI-native system design
-+ Thinking in systems, not features
++ Improving backend architecture skills
+
