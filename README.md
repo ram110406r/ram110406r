@@ -1,11 +1,11 @@
 <!-- 🔥 HERO -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A84FF,100:00C3FF&height=220&section=header&text=Ram%20Prasanna&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A84FF,100:00C3FF&height=220&section=header&text=RAM%20PRASANNA%20R&fontSize=48&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=22&duration=2200&pause=800&color=00C3FF&center=true&vCenter=true&width=750&lines=AI+Systems+Builder;Backend+Engineer;EdTech+Product+Developer;Designing+Systems+That+Think" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=22&duration=2200&pause=800&color=00C3FF&center=true&vCenter=true&width=800&lines=AI+Systems+Builder;Backend+Engineer;EdTech+Product+Developer;Designing+Systems+That+Think" />
 </p>
 
 <p align="center">
@@ -22,7 +22,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ram110406r&label=Profile%20Views&color=00C3FF&style=for-the-badge"/>
 </p>
-
 ---
 
 ## 🧠 About Me
