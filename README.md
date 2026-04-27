@@ -1,122 +1,87 @@
-<h1 align="center">👋 Hi, I'm Ram Prasanna (RP)</h1>
-<h3 align="center">AI Systems Builder • EdTech Developer • Engineering Student • Photographer</h3>
+<h1 align="center">Ram Prasanna (RP)</h1>
 
 <p align="center">
-Building AI-powered learning systems and scalable backend architectures.
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ram110406r&label=Profile%20views&color=blue&style=flat" />
-</p>
-
----
-
-# 🧠 About Me
-
-I am a **second-year engineering student** passionate about building **real-world software systems**.
-
-My interests include:
-
-- 🤖 Applied AI systems  
-- 🧠 Education technology  
-- ⚙️ Backend architecture  
-- 📊 Intelligent learning platforms  
-
-I enjoy designing **systems that are practical, scalable, and useful**.
-
----
-
-**Tech Stack**
-
-Next.js • Node.js • PostgreSQL • Prisma • Claude API • Docker
-
----
-## ⭐ Featured Projects
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=00C3FF&center=true&vCenter=true&width=600&lines=Projects+I+Built;AI+Systems+and+Engineering+Experiments"/>
-</p>
-
-| Project                       | Description                                          |
-| ----------------------------- | ---------------------------------------------------- |
-| 🧠 **EDDGE**                  | AI learning platform for structured exam preparation |
-| ⚙️ **Cache Memory Simulator** | Tool to analyze cache performance                    |
-| 📡 **GSM Device Control**     | Arduino system for GSM-based remote control          |
-
----
-
-
-
-# 🛠️ Tech Stack
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,c,postgres" />
-</p>
-
----
-
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-</p>
-
----
-
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,postgres,supabase" />
-</p>
-
----
-
-### AI & Systems
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-</p>
-
----
-
-### Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
-</p>
-
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ram110406r&show_icons=true&theme=tokyonight"/>
+  AI Systems Builder • Backend Engineer • EdTech Developer
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ram110406r&theme=tokyonight"/>
+  Designing scalable systems and AI-driven learning platforms.
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Building+AI-powered+learning+systems;Designing+scalable+backend+architectures;Turning+ideas+into+real+products" />
+</p>
 
 ---
 
-# 🤝 Connect
+## 🧠 About
 
-LinkedIn  
-https://www.linkedin.com/in/ram-prasanna-r-2a7386326
+I’m an engineering student focused on building **real-world software systems** at the intersection of:
 
-Email  
-rrpijju11@gmail.com
+- Artificial Intelligence  
+- Backend Systems  
+- Education Technology  
 
-Instagram  
-https://www.instagram.com/ram.prasanna.r
+I care about **clarity, scalability, and practical impact**.
+
+---
+
+## 🚀 Featured Work
+
+### 🧠 EDDGE — AI Learning Platform
+- Structured exam preparation using AI  
+- Converts syllabus into actionable learning paths  
+- Focused on consistency and clarity  
+
+---
+
+### ⚙️ Cache Memory Simulator
+- Simulates cache performance  
+- Helps analyze low-level system behavior  
+
+---
+
+### 📡 GSM Device Control System
+- Remote device switching using GSM  
+- Built with Arduino and relay modules  
+
+---
+
+## 🛠 Tech Stack
+
+**Core**  
+Next.js • Node.js • PostgreSQL • Prisma  
+
+**AI / Systems**  
+Python • FastAPI • TensorFlow • PyTorch  
+
+**Tools & Infra**  
+Docker • Linux • Git • Supabase  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ram110406r&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ram110406r&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🤝 Connect
+
+- LinkedIn: https://www.linkedin.com/in/ram-prasanna-r-2a7386326  
+- Email: rrpijju11@gmail.com  
+- Instagram: https://www.instagram.com/ram.prasanna.r  
 
 ---
 
 ## 🧭 Philosophy
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3500&color=00C3FF&center=true&vCenter=true&width=800&lines=Build+systems+that+genuinely+help+people+learn+better."/>
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=3500&pause=1200&color=4A90E2&center=true&vCenter=true&width=700&lines=Build+systems+that+make+learning+clearer;Reduce+confusion.+Increase+understanding;Technology+should+simplify%2C+not+complicate" />
+</p>
