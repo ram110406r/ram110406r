@@ -22,7 +22,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ram110406r&label=Profile%20Views&color=00C3FF&style=for-the-badge"/>
 </p>
----
 
 ## 🧠 About Me
 
