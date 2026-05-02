@@ -68,10 +68,6 @@ I care about **clarity, scalability, and practical impact**.
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ram110406r&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ram110406r&theme=tokyo-night&hide_border=true"/>
-</p>
-
 ---
 
 ## 🌐 Connect
