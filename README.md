@@ -103,10 +103,6 @@ An AI-native product operating system that helps Product Managers plan, build, a
 
 💡 Feature Ideation
 
-🏗️ Technical Specifications
-
-🤖 AI Product Agents
-
 ⚡ Product Workflow Automation
 
 👥 Team Collaboration
