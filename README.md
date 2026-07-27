@@ -297,8 +297,6 @@ Exploring modern AI systems including
 # ⚡ Current Focus
 
 ```diff
-+ Building SPECKULA
-+ Growing EDDGE
 + AI Agents & Intelligent Systems
 + Machine Learning & Deep Learning
 + Backend Engineering with FastAPI
