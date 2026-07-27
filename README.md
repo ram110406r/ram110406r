@@ -9,9 +9,6 @@
 </p>
 
 <p align="center">
-
-### **      Designing intelligent software that transforms complex problems into elegant systems.**
-
 </p>
 
 <p align="center">
@@ -88,32 +85,25 @@ React • TypeScript • FastAPI • PostgreSQL • Docker • AI
 
 # SPECKULA
 
-### AI Browser Intelligence Platform
+### Cursor for Product Managers
 
-An AI-powered browser extension that captures, understands, and automates digital workflows.
+An AI-native product operating system that helps Product Managers plan, build, and ship products faster.
 
-#### Highlights
+### What SPECKULA does
+🧠 AI Product Manager
+📄 Generates PRDs
+📋 Writes User Stories
+🗺️ Creates Product Roadmaps
+📊 Market & Competitor Research
+💡 Feature Ideation
+🏗️ Technical Specifications
+🤖 AI Product Agents
+⚡ Product Workflow Automation
+👥 Team Collaboration
 
-🤖 Autonomous AI Agents
+### Built With
 
-📸 Intelligent screen capture
-
-⚡ Context-aware workflow automation
-
-🔒 Secure Authentication
-
-📊 Observability & Analytics
-
-🌐 Browser Extension
-
-⚙️ FastAPI backend
-
-🐳 Docker-ready deployment
-
-**Stack**
-
-Plasmo • React • TypeScript • FastAPI • PostgreSQL • Docker
-
+React • TypeScript • FastAPI • Python • PostgreSQL • Docker • AI
 </td>
 
 </tr>
@@ -261,8 +251,6 @@ Exploring modern AI systems including
 
 # 🎯 Current Goals
 
-- 🚀 Grow SPECKULA into a production-ready AI platform
-- 📚 Continue evolving EDDGE as an AI-powered learning ecosystem
 - 🤖 Build production-grade AI agents
 - ☁️ Master Cloud & DevOps
 - ⚙️ Contribute to Open Source
