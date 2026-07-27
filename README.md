@@ -89,14 +89,16 @@ I care about **clarity, scalability, and practical impact**.
 ## 🧭 Philosophy
 
 <p align="center">
-<h1 align="center">
-  “The only true wisdom is in knowing you know nothing.”
-</h1>
-
-<p align="center">
-  <strong>— Socrates</strong>
+  <em>
+    <strong>
+      “The only true wisdom is in knowing you know nothing.”
+    </strong>
+  </em>
 </p>
 
+<p align="center">
+  <sub>— Socrates</sub>
+</p>
 ---
 
 ## ⚡ Current Focus
