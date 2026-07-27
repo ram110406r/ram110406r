@@ -95,7 +95,6 @@ I care about **clarity, scalability, and practical impact**.
     </strong>
   </em>
 </p>
----
 
 ## ⚡ Current Focus
 
