@@ -90,15 +90,25 @@ React • TypeScript • FastAPI • PostgreSQL • Docker • AI
 An AI-native product operating system that helps Product Managers plan, build, and ship products faster.
 
 ### What SPECKULA does
+
 🧠 AI Product Manager
+
 📄 Generates PRDs
+
 📋 Writes User Stories
+
 🗺️ Creates Product Roadmaps
+
 📊 Market & Competitor Research
+
 💡 Feature Ideation
+
 🏗️ Technical Specifications
+
 🤖 AI Product Agents
+
 ⚡ Product Workflow Automation
+
 👥 Team Collaboration
 
 ### Built With
