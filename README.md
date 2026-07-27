@@ -288,9 +288,7 @@ Exploring modern AI systems including
 
 <p align="center">
 
-## **"The only true wisdom is in knowing you know nothing."**
-
-### — Socrates
+## **"The only true wisdom is in knowing you know nothing - SOCARATES"**
 
 </p>
 
