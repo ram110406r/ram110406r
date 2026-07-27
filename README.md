@@ -89,7 +89,12 @@ I care about **clarity, scalability, and practical impact**.
 ## 🧭 Philosophy
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=3000&pause=1200&color=00C3FF&center=true&vCenter=true&width=800&lines=Confusion+is+the+problem;Clarity+is+the+solution;Build+systems+that+think" />
+<h1 align="center">
+  “The only true wisdom is in knowing you know nothing.”
+</h1>
+
+<p align="center">
+  <strong>— Socrates</strong>
 </p>
 
 ---
