@@ -95,10 +95,6 @@ I care about **clarity, scalability, and practical impact**.
     </strong>
   </em>
 </p>
-
-<p align="center">
-  <sub>— Socrates</sub>
-</p>
 ---
 
 ## ⚡ Current Focus
