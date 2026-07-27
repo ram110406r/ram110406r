@@ -10,7 +10,7 @@
 
 <p align="center">
 
-### **Designing intelligent software that transforms complex problems into elegant systems.**
+### **      Designing intelligent software that transforms complex problems into elegant systems.**
 
 </p>
 
@@ -52,7 +52,6 @@ I enjoy transforming complex ideas into practical solutions through thoughtful a
 
 <td width="50%" align="center">
 
-<img src="./assets/eddge.png" width="130"/>
 
 # EDDGE
 
@@ -86,7 +85,6 @@ React • TypeScript • FastAPI • PostgreSQL • Docker • AI
 
 <td width="50%" align="center">
 
-<img src="./assets/speckula.png" width="130"/>
 
 # SPECKULA
 
